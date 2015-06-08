@@ -1,2 +1,2 @@
-# ShardsRL
-a fancy roguelike
+# FragmentsRL
+libtcod-based roguelike
